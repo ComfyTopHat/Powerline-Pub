@@ -1,5 +1,8 @@
 ## Powerline E2E Messaging Service
 Intro: Work in progress development space for an E2E encrypted messaging service for personal use. 
+
+Includes Firebase integration for push notifications and statistics
+
 ## Targeted for: IOS/Android/UWP + Web Clients
 
 Section to be updated post deployment and architecture diagrams
